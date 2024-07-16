@@ -6,7 +6,7 @@
   <img src="images/geoepi_logo_xsm.png" width="50" height="50" />
 </a>
 <span style="display: inline-block; vertical-align: middle; font-size: 50px;">
-  <a href="https://github.com/geoepi">GeoEpi</a>
+  <a href="https://github.com/geoepi"></a>
 </span>  
 
 
