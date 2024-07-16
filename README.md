@@ -1,16 +1,11 @@
-## Hi there 👋
-
-<!--
-**JMHumphreys/JMHumphreys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Hi there 👋    
+  
+### This profile is used as a testing ground or sandbox.  Most work is contributed elsewhere, like on the [GeoEpi](https://github.com/geoepi) orginization site.  
+  
+  
+<a href="https://github.com/geoepi" style="display: inline-block; vertical-align: middle;">
+  <img src="images/geoepi_logo_xsm.png" width="50" height="50" />
+</a>
+<span style="display: inline-block; vertical-align: middle; font-size: 24px;">
+  <a href="https://github.com/geoepi">GeoEpi</a>
+</span>
